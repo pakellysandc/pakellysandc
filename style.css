@@ -481,19 +481,19 @@ iframe{
 
 
 
-    @media (min-width: 200px) {
-        /* For mobile phones: */
+   /*   @media (min-width: 200px) {
+       For mobile phones: 
         .addtion-r::after{
             content: "";
-  
         top: 0;
         right: 0;
         width: 1px;
         height: 93%;
       
+  
             
         }
-      }
+      }*/
          
 
       home
