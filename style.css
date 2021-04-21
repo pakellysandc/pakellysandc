@@ -34,7 +34,7 @@ button:hover{
     margin: 0 13px;
     font-size: 15px;
     text-transform: uppercase;
-    transition: all 0.1s ease;/*0.3*/
+    transition: all 0.3s ease;
 }
 .navbar-dark .navbar-nav .nav-link:hover{
     color: red;
@@ -83,7 +83,7 @@ justify-content: center
     padding: 10px;
     color: white;
     font-size: 18px;
-    transition: all 0.1s ease;/*0.3s*/
+    transition: all 0.3s ease;
     cursor: pointer;
 }
 .navbar-social i:hover{
@@ -132,7 +132,7 @@ justify-content: center
     font-weight: 700;
     padding: 15px;
     margin-bottom: 10px;
-    transition: color 0.1s ease;/*0.9s*/
+    transition: color 0.3s ease;/*0.9s*/
 }
 .btnr:hover{
 color: red;
@@ -148,7 +148,7 @@ color: red;
     font-weight: 700;
     padding: 15px;
     margin-bottom: 10px;
-    transition: all 0.1s ease;/*0.9s*/
+    transition: all 0.9s ease;
 }
 .btnl:hover{
     
@@ -203,7 +203,7 @@ color: red;
         width: 100%;
         display: block;
         margin-bottom: 10px;
-        transition: all 0.1s ease;/*0.3s*/
+        transition: all 0.3s ease;
     }
     .addtion-l{
         padding-right: 50px;
@@ -472,9 +472,6 @@ iframe{
     width: 431px;
     height: 351px;
 }
-
-
-
 
     @media (max-width: 600px) {
      /*    For mobile phones:*/
