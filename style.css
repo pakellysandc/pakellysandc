@@ -1,6 +1,8 @@
 
 *{
     scroll-behavior: smooth;
+    margin: 0;
+	padding: 0;
 }
 .mg-t{
     margin-top: 50px;
@@ -479,7 +481,7 @@ iframe{
 
 
 
-    @media (min-width: 994px) {
+    @media (max-width: 600px) {
         /* For mobile phones: */
         .addtion-r::after{
             content: "";
