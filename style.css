@@ -482,7 +482,7 @@ iframe{
 
 
     @media (max-width: 600px) {
-        /* For mobile phones: */
+        /* For mobile phones: 
         .addtion-r::after{
             content: "";
         position: absolute;
@@ -490,7 +490,7 @@ iframe{
         right: 0;
         width: 1px;
         height: 93%;
-        background-color: #131212;
+        background-color: #131212;*/
             
         }
       }
